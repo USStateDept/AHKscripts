@@ -1,3 +1,4 @@
 build/trusted
 build/manager
 build/VERSION.txt
+env.sh
